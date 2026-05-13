@@ -34,7 +34,7 @@ int main() {
 }
 ~~~
 # OUTPUT:
-<img width="1736" height="888" alt="Screenshot 2025-09-26 090938" src="https://github.com/user-attachments/assets/81dc2a27-fae9-4372-a5ff-b30411b76fb0" />
+<img width="1747" height="991" alt="Screenshot 2026-05-13 133536" src="https://github.com/user-attachments/assets/96a84085-5d8d-40b8-ac8b-b947fc55e947" />
 
 # RESULT:
 The code are executed successfully verified.
